@@ -42,6 +42,7 @@ img {
   height: 220px;
   width: 220px;
   object-fit: cover;
+  background-image: url("https://source.unsplash.com/random");
 
 }
 
